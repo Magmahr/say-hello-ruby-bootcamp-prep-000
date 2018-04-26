@@ -1,6 +1,5 @@
 
-def say_hello(name, other="Ruby programmer")
+def say_hello(name, name="Ruby programmer")
  print "Hello #{name}!"
- print "Hello #{other}!"
 end  
 
